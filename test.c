@@ -1,0 +1,8 @@
+/*
+ * test program
+*/
+
+int main(int argc, char ** argv)
+{
+    argc = argc ? argc : 1;
+}
